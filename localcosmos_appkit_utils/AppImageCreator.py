@@ -1,7 +1,7 @@
 import os, shutil
 from PIL import Image
 
-from app_kit_utils.image_utils import (create_png_from_svg, create_resized_png_from_svg, create_png_border,
+from localcosmos_appkit_utils.image_utils import (create_png_from_svg, create_resized_png_from_svg, create_png_border,
                                        remove_alpha_channel_from_png)
 
 ###########################################################################################

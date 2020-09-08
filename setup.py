@@ -9,7 +9,7 @@ install_requires = [
 
 setup(
     name='localcosmos_appkit_utils',
-    version='0.1',
+    version='0.2',
     description='Local Cosmos AppKit utils. Creates images and more for mobile apps created with Local Cosmos.',
     long_description=long_description,
     long_description_content_type='text/markdown',
