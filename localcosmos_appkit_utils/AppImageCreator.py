@@ -202,7 +202,7 @@ class IOSAppImageCreator(AppImageCreator):
             'folder' : 'AppIcon.appiconset',
         },
         'splashscreen' : {
-            'folder' : 'LaunchImage.launchimage',
+            'folder' : 'LaunchStoryboard.imageset',
         },
         'storyboard' : {
             'Default@2x~universal~anyany.png' : [2732,2732],
